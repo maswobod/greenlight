@@ -537,7 +537,7 @@ de_DE:
     invalid_provider: "Sie haben eine ungültige URL eingegeben, bitte überprüfen Sie die URL und versuchen Sie es erneut."
     invitation_description: "Sie wurden zu %{name} über BigBlueButton zur Teilnahme eingeladen. Um beizutreten, klicken Sie auf den obigen Link und geben Sie Ihren Namen ein."  
     invited: Sie wurden zur Teilnahme eingeladen
-    recording_present: "Ich stimme den Datenschutzbestimmungen der Firma PEKANA zu. Diese betreffen unter anderem die Erhebung, Verarbeitung und Nutzung  personenbezogener  Daten bei Anmeldung, Teilnahme und Aufnahme von Online-Veranstaltungen, einsehbar unter <a href=\"https://pekana.de/datenschutz\">https://pekana.de/datenschutz.</a>"
+    recording_present: "Ich stimme den Datenschutzbestimmungen der Firma PEKANA zu. Diese betreffen unter anderem die Erhebung, Verarbeitung und Nutzung  personenbezogener  Daten bei Anmeldung, Teilnahme und Aufnahme von Online-Veranstaltungen, einsehbar unter <a href=\"https://pekana.de/datenschutz\">Datenschutz.</a>"
     invite_participants: Teilnehmer einladen
     join: Teilnehmen
     last_session: "Letzte Konferenz am %{session}"

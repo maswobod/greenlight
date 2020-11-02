@@ -287,7 +287,7 @@ en:
     email: Email
     submit: Submit
   go_back: Go back
-  greenlight: Greenlight
+  greenlight: Pekana
   header:
     all_recordings: All Recordings
     dropdown:
@@ -300,7 +300,7 @@ en:
   info_update_success: Information successfully updated.
   invalid_credentials: The email and password you entered did not match our records. Try again or click Forgot Password to reset your password.
   invalid_login_method: Login failed due to account mismatch. You need to log in with omniauth.
-  invite_message: "To invite someone to the meeting, send them this link:"
+  invite_message: "The link to this meeting is:"
   javascript:
     room:
       mailer:
@@ -312,7 +312,7 @@ en:
       start: Start searching...
   landing:
     about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to BigBlueButton.
+    welcome: Welcome to PEKANA.
     video: Watch our tutorial on using Greenlight
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.
